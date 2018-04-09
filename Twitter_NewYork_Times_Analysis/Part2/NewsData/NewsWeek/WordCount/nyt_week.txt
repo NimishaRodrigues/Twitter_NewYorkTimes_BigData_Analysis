@@ -1,0 +1,337 @@
+                                                                            copyright                                                                   meta                                                                  data
+
+res                                                                         Copyright (c) 2015 The New York Times Company. All Rights Reserved. list(hits = 52                                                                 offset = 0
+https://www.nytimes.com/2018/03/21/nyregion/snow-storm-winter-               "https://www.nytimes.com/2018/03/22/nyregion/digging-out-from-a-    "https://www.nytimes.com/aponline/2018/04/02/us/ap-us-dry-                    snippet = c("On the h
+weather.html                                                                snowy-spring-day.html"                                              california.html")                                                             left 2.7 million without
+Children had to bundle up in warm coats and rubber boots for an Easter
+egg hunt in North Dakota, after a storm left up to five inches of snow on    "Winter refused to relinquish its grip with predictions of 12 to 16 inches of
+the ground.                                                                 snow on Wednesday                                                              prompting the closure of New York City public schools."             "Monday: A spring sto
+Planes are grounded and trains are canceled as snow spreads from                                                                                                                                                               "A stormy close to Ca
+Washington to Boston.                                                                                                                                     but was less than advertised for most of the New York region."      plunge back into droug
+The New York Times                                                          "The New York Times"                                                          "The New York Times"                                                 "The New York Times
+hpLarge                                                                     "hpSmall"                                                                     "jumbo"                                                              "largeHorizontal375"
+tmagSF                                                                      "verticalTwoByThree735"                                                       "videoFifteenBySeven1305"                                            "videoFifteenBySeven
+windowsTile336H)                                                            caption = c(NA                                                                NA                                                                   NA
+NA                                                                          NA                                                                            NA                                                                   NA
+
+
+
+image                                                                       "image"                                                                       "image"                                                                 "image"
+
+images/2018/03/06/us/07xp-storm/07xp-storm-blog427.jpg                      "images/2018/03/06/us/07xp-storm/07xp-storm-blog480.jpg"                     "images/2018/03/06/us/07xp-storm/07xp-storm-blog533.jpg"                 "images/2018/03/06/u
+                                                                                                                                                         "images/2018/03/06/us/07xp-storm/07xp-storm-
+images/2018/03/06/us/07xp-storm/07xp-storm-jumbo.jpg                        "images/2018/03/06/us/07xp-storm/07xp-storm-largeHorizontal375.jpg"         largeHorizontalJumbo.jpg"                                                 "images/2018/03/06/u
+
+images/2018/03/06/us/07xp-storm/07xp-storm-master495.jpg                    "images/2018/03/06/us/07xp-storm/07xp-storm-master768.jpg"                    "images/2018/03/06/us/07xp-storm/07xp-storm-master675.jpg"              "images/2018/03/06/u
+images/2018/03/06/us/07xp-storm/07xp-storm-                                 "images/2018/03/06/us/07xp-storm/07xp-storm-
+mediumThreeByTwo378.jpg                                                     mediumThreeByTwo252.jpg"                                                      "images/2018/03/06/us/07xp-storm/07xp-storm-miniMoth.jpg"               "images/2018/03/06/u
+
+images/2018/03/06/us/07xp-storm/07xp-storm-square320.jpg                    "images/2018/03/06/us/07xp-storm/07xp-storm-square640.jpg"                    "images/2018/03/06/us/07xp-storm/07xp-storm-superJumbo.jpg"          "images/2018/03/06/u
+images/2018/03/06/us/07xp-storm/07xp-storm-                                                                                                                                                                                    "images/2018/03/06/u
+videoFifteenBySeven2610.jpg                                                  "images/2018/03/06/us/07xp-storm/07xp-storm-videoHpMedium.jpg"              "images/2018/03/06/us/07xp-storm/07xp-storm-videoLarge.jpg"          videoSixteenByNine10
+images/2018/03/06/us/07xp-storm/07xp-storm-                                  "images/2018/03/06/us/07xp-storm/07xp-storm-                                "images/2018/03/06/us/07xp-storm/07xp-storm-                          "images/2018/03/06/u
+videoSixteenByNine390.jpg                                                   videoSixteenByNine480.jpg"                                                  videoSixteenByNine495.jpg"                                            videoSixteenByNine54
+images/2018/03/06/us/07xp-storm/07xp-storm-
+videoSixteenByNineJumbo1600.jpg                                             "images/2018/03/06/us/07xp-storm/07xp-storm-videoSmall.jpg"                   "images/2018/03/06/us/07xp-storm/07xp-storm-videoThumb.jpg"             "images/2018/03/06/u
+
+                                                                      330                                                                           512                                                                     450
+                                                                      150                                                                           225                                                                    3000
+mediumThreeByTwo225                                                         "mediumThreeByTwo440"                                                         "mediumThreeByTwo378"                                                   "mediumThreeByTwo
+videoSixteenByNine480                                                       "videoSixteenByNine495"                                                       "videoSixteenByNine540"                                                 "videoSixteenByNine6
+largeWidescreen573                                                          "largeWidescreen1050"                                                         "master1050"                                                            "master180"
+
+videoHpMedium                                                               "videoLarge"                                                                  "videoSixteenByNine1050"                                                "videoSixteenByNine1
+
+
+
+
+NA                                                                          NA                                                                            NA                                                                      NA
+
+
+NA                                                                          NA                                                                            NA                                                                      NA
+
+NA                                                                          NA                                                                            NA                                                                      NA
+
+NA                                                                          NA)                                                                           legacy.wideheight = c(NA
+
+
+NA                                                                          NA                                                                            NA                                                                      NA
+
+
+
+NA                                                                          NA                                                                            NA                                                                      NA
+wide                                                                        "thumbnail"                                                                   "articleInline"                                                         "blog225"
+miniMoth                                                                    "moth"                                                                        "popup"                                                                 "sfSpan"
+videoSixteenByNine768                                                       "videoSixteenByNine96"                                                        "videoSixteenByNineJumbo1600"                                           "videoSmall"
+NA                                                                          NA                                                                            NA                                                                      NA
+
+
+image                                                             "image"                                                            "image"                                                            "image"
+images/2018/03/21/nyregion/21nyweather/21nyweather-thumbStandard- "images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/n
+v2.jpg                                                           895b-457a-8cf2-ced51d784e7c-articleInline.jpg"                     895b-457a-8cf2-ced51d784e7c-blog225.jpg"                           895b-457a-8cf2-ced51
+images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/n
+895b-457a-8cf2-ced51d784e7c-blog533.jpg                          895b-457a-8cf2-ced51d784e7c-blogSmallInline.jpg"                   blogSmallThumb-v2.jpg"                                             facebookJumbo.jpg"
+images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/n
+895b-457a-8cf2-ced51d784e7c-hpSmall.jpg                          895b-457a-8cf2-ced51d784e7c-jumbo.jpg"                             largeHorizontal375-v2.jpg"                                         largeHorizontalJumbo
+images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/n
+895b-457a-8cf2-ced51d784e7c-master1050.jpg                       895b-457a-8cf2-ced51d784e7c-master180.jpg"                         895b-457a-8cf2-ced51d784e7c-master315.jpg"                         895b-457a-8cf2-ced51
+images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/n
+895b-457a-8cf2-ced51d784e7c-master675.jpg                        895b-457a-8cf2-ced51d784e7c-mediumFlexible177.jpg"                 mediumSquare149-v2.jpg"                                            mediumThreeByTwo2
+images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-miniMoth-
+mediumThreeByTwo378-v2.jpg                                       mediumThreeByTwo252-v2.jpg"                                        v2.jpg"                                                             "images/2018/03/21/n
+images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-square320-     "images/2018/03/21/n
+smallSquare168-v2.jpg                                            smallSquare252-v2.jpg"                                             v2.jpg"                                                            v2.jpg"
+images/2018/03/21/nyregion/21nyweather/merlin_135148083_922485a2- "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/n
+895b-457a-8cf2-ced51d784e7c-tmagSF.jpg                           verticalTwoByThree735-v2.jpg"                                      videoFifteenBySeven1305-v2.jpg"                                    videoFifteenBySeven2
+images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/n
+videoSixteenByNine1050.jpg                                       videoSixteenByNine150.jpg"                                         videoSixteenByNine225.jpg"                                         videoSixteenByNine30
+images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/nyregion/21nyweather/21nyweather-               "images/2018/03/21/n
+videoSixteenByNine495.jpg                                        videoSixteenByNine540.jpg"                                         videoSixteenByNine600.jpg"                                         videoSixteenByNine76
+images/2018/03/21/nyregion/21nyweather/21nyweather-videoThumb-    "images/2018/03/21/nyregion/21nyweather/21nyweather-watch268-      "images/2018/03/21/nyregion/21nyweather/21nyweather-watch308-      "images/2018/03/21/n
+v2.jpg                                                           v2.jpg"                                                            v2.jpg"                                                            windowsTile336H-v2.j
+
+
+
+                                                                     1367                                                                           150                                                                    395
+wide                                                                        "thumbnail"                                                                   "articleInline"                                                         "blog225"
+miniMoth                                                                    "moth"                                                                        "popup"                                                                 "sfSpan"
+videoSixteenByNine768                                                       "videoSixteenByNine96"                                                        "videoSixteenByNineJumbo1600"                                           "videoSmall"
+master495                                                                   "master768"                                                                   "master675"                                                             "mediumFlexible177"
+
+
+videoSixteenByNine225                                                       "videoSixteenByNine3000"                                                      "videoSixteenByNine310"                                                 "videoSixteenByNine3
+
+NA                                                                          NA                                                                            NA                                                                      NA
+
+NA                                                                          NA                                                                            NA                                                                      NA
+
+NA                                                                          NA                                                                            NA                                                                      NA
+
+                                                                      126 NA                                                                              NA                                                                      NA
+
+NA                                                                          NA                                                                            NA                                                                      NA
+NA                                                                         NA                                                                     NA                                                                      NA
+blog225                                                                    "blog427"                                                              "blog480"                                                               "blog533"
+slide                                                                      "smallSquare168"                                                       "smallSquare252"                                                        "square320"
+videoSixteenByNine96                                                       "videoSixteenByNineJumbo1600"                                          "videoSmall"                                                            "videoThumb"
+NA                                                                         NA                                                                     NA                                                                      NA
+
+
+image                                                                      "image"                                                                "image"                                                                 "image"
+
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-articleInline.jpg         "images/2018/04/02/nyregion/02nytoday1/02nytoday1-blog225.jpg"         "images/2018/04/02/nyregion/02nytoday1/02nytoday1-blog427.jpg"          "images/2018/04/02/n
+
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-filmstrip.jpg             "images/2018/04/02/nyregion/02nytoday1/02nytoday1-hpLarge.jpg"         "images/2018/04/02/nyregion/02nytoday1/02nytoday1-hpSmall.jpg"          "images/2018/04/02/n
+
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-master1050.jpg        "images/2018/04/02/nyregion/02nytoday1/02nytoday1-master180.jpg"       "images/2018/04/02/nyregion/02nytoday1/02nytoday1-master315.jpg"         "images/2018/04/02/n
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-                      "images/2018/04/02/nyregion/02nytoday1/02nytoday1-                     "images/2018/04/02/nyregion/02nytoday1/02nytoday1-                       "images/2018/04/02/n
+mediumThreeByTwo210.jpg                                                mediumThreeByTwo225.jpg"                                               mediumThreeByTwo440.jpg"                                                mediumThreeByTwo3
+                                                                                                                                                                                                                       "images/2018/04/02/n
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-popup.jpg                 "images/2018/04/02/nyregion/02nytoday1/02nytoday1-sfSpan.jpg"          "images/2018/04/02/nyregion/02nytoday1/02nytoday1-slide.jpg"        smallSquare168.jpg"
+                                                                                                                                                                                                                       "images/2018/04/02/n
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-thumbLarge.jpg         "images/2018/04/02/nyregion/02nytoday1/02nytoday1-tmagArticle.jpg"     "images/2018/04/02/nyregion/02nytoday1/02nytoday1-tmagSF.jpg"          verticalTwoByThree73
+                                                                        "images/2018/04/02/nyregion/02nytoday1/02nytoday1-                     "images/2018/04/02/nyregion/02nytoday1/02nytoday1-                      "images/2018/04/02/n
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-videoLarge.jpg        videoSixteenByNine1050.jpg"                                            videoSixteenByNine150.jpg"                                              videoSixteenByNine22
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-                       "images/2018/04/02/nyregion/02nytoday1/02nytoday1-                     "images/2018/04/02/nyregion/02nytoday1/02nytoday1-                      "images/2018/04/02/n
+videoSixteenByNine480.jpg                                              videoSixteenByNine495.jpg"                                             videoSixteenByNine540.jpg"                                              videoSixteenByNine60
+
+images/2018/04/02/nyregion/02nytoday1/02nytoday1-videoSmall.jpg            "images/2018/04/02/nyregion/02nytoday1/02nytoday1-videoThumb.jpg" "images/2018/04/02/nyregion/02nytoday1/02nytoday1-watch268.jpg"      "images/2018/04/02/n
+                                                                     168                                                                    70                                                                151
+                                                                     768                                                                    96                                                               1600
+mediumThreeByTwo378                                                        "mediumThreeByTwo252"                                                  "miniMoth"                                                              "moth"
+videoSixteenByNine540                                                      "videoSixteenByNine600"                                                "videoSixteenByNine768"                                                 "videoSixteenByNine9
+master1050                                                                 "master180"                                                            "master315"                                                             "master495"
+
+
+videoSixteenByNine1050                                                     "videoSixteenByNine150"                                                "videoSixteenByNine225"                                                 "videoSixteenByNine3
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+                                                                     126 NA                                                                       NA                                                                      NA
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+
+
+NA                                                                         NA                                                                     NA                                                                      NA
+blog427                                                                    "blog480"                                                              "blog533"                                                               "blogSmallInline"
+smallSquare168                                                             "smallSquare252"                                                       "square320"                                                             "square640"
+
+windowsTile336H)                                                           caption = c(NA                                                         NA                                                                      NA
+NA                                                                         NA                                                                     NA                                                                      NA
+
+
+
+
+image                                                                      "image"                                                                "image"                                                             "image"
+                                                                                                                                                                                                                      "images/2018/03/07/c
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-blog427.jpg "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-blog480.jpg" "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-blog533.jpg"blogSmallInline.jpg"
+                                                                       "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-                                                                                    "images/2018/03/07/c
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-hpLarge.jpg hpSmall.jpg"                                                            "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-jumbo.gif" largeHorizontal375.gif"
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-            "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/c
+master1050.jpg                                                        master180.jpg"                                                         master315.jpg"                                                          master495.jpg"
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-            "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/c
+mediumSquare149.jpg                                                   mediumThreeByTwo210.jpg"                                               mediumThreeByTwo225.jpg"                                                mediumThreeByTwo4
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-
+miniMoth.jpg                                                           "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-moth.jpg" "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-popup.jpg" "images/2018/03/07/c
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-            "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/c
+square320.jpg                                                         square640.jpg"                                                         superJumbo.gif"                                                         thumbLarge.jpg"
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-            "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/c
+videoLarge.jpg                                                        videoSixteenByNine1050.jpg"                                            videoSixteenByNine150.jpg"                                              videoSixteenByNine22
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-            "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/c
+videoSixteenByNine480.jpg                                             videoSixteenByNine495.jpg"                                             videoSixteenByNine540.jpg"                                              videoSixteenByNine60
+images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-            "images/2018/03/07/climate/cli-thundersnow/cli-thundersnow-             "images/2018/03/07/c
+videoSixteenByNineJumbo1600.jpg                                       videoSmall.jpg"                                                        videoThumb.jpg"                                                         watch268.jpg"
+
+                                                                     127                                                                    240                                                                     270
+                                                                     320                                                                    640                                                                    1024
+mediumSquare149                                                            "mediumThreeByTwo210"                                                  "mediumThreeByTwo225"                                                   "mediumThreeByTwo
+videoSixteenByNine540                                                      "videoSixteenByNine600"                                                "videoSixteenByNine768"                                                 "videoSixteenByNine9
+master1050                                                                 "master180"                                                            "master315"                                                             "master495"
+
+videoSixteenByNine310                                                      "videoSixteenByNine390"                                                "videoSixteenByNine480"                                                 "videoSixteenByNine4
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+NA                                                                         NA                                                                     NA                                                                      NA
+
+
+NA                                                                         NA                                                                     NA                                                                      NA))
+largeWidescreen1050                                                        "master1050"                                                           "master180"                                                             "master315"
+videoLarge                                                                 "videoSixteenByNine1050"                                               "videoSixteenByNine150"                                                 "videoSixteenByNine2
+NA                                                                         NA                                                                     NA                                                                      NA
+image                                                                      "image"                                                                "image"                                                                 "image"
+
+
+image                                                                   "image"                                                                "image"                                                          "image"
+images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-          "images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-        "images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314- "images/2018/03/25/n
+0ab5-498c-a983-a306744f0b81-blog225.jpg                                0ab5-498c-a983-a306744f0b81-blog427.jpg"                               0ab5-498c-a983-a306744f0b81-blog480.jpg"                         0ab5-498c-a983-a306
+images/2018/03/25/nyregion/25ALBUM1/22storm20-                          "images/2018/03/25/nyregion/25ALBUM1/22storm20-
+blogSmallThumb.jpg                                                     facebookJumbo.jpg"                                                      "images/2018/03/25/nyregion/25ALBUM1/22storm20-filmstrip.jpg"           "images/2018/03/25/n
+images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-          "images/2018/03/25/nyregion/25ALBUM1/22storm20-                        "images/2018/03/25/nyregion/25ALBUM1/22storm20-                         "images/2018/03/25/n
+0ab5-498c-a983-a306744f0b81-largeHorizontalJumbo.jpg                   largeWidescreen573.jpg"                                                largeWidescreen1050.jpg"                                                0ab5-498c-a983-a306
+images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-          "images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-        "images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-         "images/2018/03/25/n
+0ab5-498c-a983-a306744f0b81-master495.jpg                      0ab5-498c-a983-a306744f0b81-master768.jpg"                      0ab5-498c-a983-a306744f0b81-master675.jpg"                                      0ab5-498c-a983-a306
+images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314- "images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314- "images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-                  "images/2018/03/25/n
+0ab5-498c-a983-a306744f0b81-mediumThreeByTwo210.jpg            0ab5-498c-a983-a306744f0b81-mediumThreeByTwo225.jpg"            0ab5-498c-a983-a306744f0b81-mediumThreeByTwo440.jpg"                            0ab5-498c-a983-a306
+                                                                                                                                "images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-                 "images/2018/03/25/n
+images/2018/03/25/nyregion/25ALBUM1/22storm20-miniMoth.jpg      "images/2018/03/25/nyregion/25ALBUM1/22storm20-moth.jpg"       0ab5-498c-a983-a306744f0b81-popup.jpg"                                          0ab5-498c-a983-a306
+                                                                                                                                "images/2018/03/25/nyregion/25ALBUM1/merlin_135805848_0dd7c314-
+images/2018/03/25/nyregion/25ALBUM1/22storm20-square320.jpg     "images/2018/03/25/nyregion/25ALBUM1/22storm20-square640.jpg"  0ab5-498c-a983-a306744f0b81-superJumbo.jpg"                                      "images/2018/03/25/n
+images/2018/03/25/nyregion/25ALBUM1/22storm20-                  "images/2018/03/25/nyregion/25ALBUM1/22storm20-                 "images/2018/03/25/nyregion/25ALBUM1/22storm20-                                 "images/2018/03/25/n
+verticalTwoByThree735.jpg                                      videoFifteenBySeven1305.jpg"                                    videoFifteenBySeven2610.jpg"                                                    videoHpMedium.jpg"
+images/2018/03/25/nyregion/25ALBUM1/22storm20-                  "images/2018/03/25/nyregion/25ALBUM1/22storm20-                 "images/2018/03/25/nyregion/25ALBUM1/22storm20-                                 "images/2018/03/25/n
+videoSixteenByNine225.jpg                                      videoSixteenByNine3000.jpg"                                     videoSixteenByNine310.jpg"                                                      videoSixteenByNine39
+images/2018/03/25/nyregion/25ALBUM1/22storm20-                  "images/2018/03/25/nyregion/25ALBUM1/22storm20-                 "images/2018/03/25/nyregion/25ALBUM1/22storm20-                                 "images/2018/03/25/n
+videoSixteenByNine600.jpg                                      videoSixteenByNine768.jpg"                                      videoSixteenByNine96.jpg"                                                       videoSixteenByNineJu
+                                                                "images/2018/03/25/nyregion/25ALBUM1/22storm20-
+images/2018/03/25/nyregion/25ALBUM1/22storm20-watch308.jpg     windowsTile336H.jpg")                                            height = c(400
+
+                                                              75                                                                    190                                                                     225
+hpLarge                                                             "hpSmall"                                                             "jumbo"                                                                  "largeHorizontal375"
+tmagSF                                                              "verticalTwoByThree735"                                               "videoFifteenBySeven1305"                                                "videoFifteenBySeven
+windowsTile336H)                                                    crop_name = c("articleLarge"                                          "thumbWide"                                                              "thumbStandard"
+mediumThreeByTwo378                                                 "mediumThreeByTwo252"                                                 "miniMoth"                                                               "moth"
+
+
+videoSixteenByNine540                                               "videoSixteenByNine600"                                               "videoSixteenByNine768"                                                  "videoSixteenByNine9
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+
+NA                                                                  NA                                                                    NA                                                                       NA
+hpLarge                                                             "hpSmall"                                                             "jumbo"                                                                  "largeHorizontal375"
+tmagSF                                                              "verticalTwoByThree735"                                               "videoFifteenBySeven1305"                                                "videoFifteenBySeven
+windowsTile336H)                                                    caption = c(NA                                                        NA                                                                       NA
+NA                                                                  NA                                                                    NA                                                                       NA
+
+
+image                                                          "image"                                                        "image"                                                        "image"
+images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1- "images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1- "images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1- "images/2018/03/23/n
+ad5f-4164-9ee4-226344d6d2d4-blog225.jpg                       ad5f-4164-9ee4-226344d6d2d4-blog427.jpg"                       ad5f-4164-9ee4-226344d6d2d4-blog480.jpg"                       ad5f-4164-9ee4-22634
+
+images/2018/03/23/nyregion/23STORM/23weather-blogSmallThumb.jpg "images/2018/03/23/nyregion/23STORM/23weather-facebookJumbo.jpg" "images/2018/03/23/nyregion/23STORM/23weather-filmstrip.jpg"  "images/2018/03/23/n
+images/2018/03/23/nyregion/23STORM/23weather-                   "images/2018/03/23/nyregion/23STORM/23weather-                   "images/2018/03/23/nyregion/23STORM/23weather-                "images/2018/03/23/n
+largeHorizontalJumbo.jpg                                       largeWidescreen573.jpg"                                          largeWidescreen1050.jpg"                                      ad5f-4164-9ee4-22634
+images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1- "images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1- "images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1- "images/2018/03/23/n
+ad5f-4164-9ee4-226344d6d2d4-master495.jpg                      ad5f-4164-9ee4-226344d6d2d4-master768.jpg"                       ad5f-4164-9ee4-226344d6d2d4-master675.jpg"                    ad5f-4164-9ee4-22634
+images/2018/03/23/nyregion/23STORM/23weather-                   "images/2018/03/23/nyregion/23STORM/23weather-                   "images/2018/03/23/nyregion/23STORM/23weather-                "images/2018/03/23/n
+mediumThreeByTwo225.jpg                                        mediumThreeByTwo440.jpg"                                         mediumThreeByTwo378.jpg"                                      mediumThreeByTwo2
+                                                                "images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1-
+images/2018/03/23/nyregion/23STORM/23weather-sfSpan.jpg         ad5f-4164-9ee4-226344d6d2d4-slide.jpg"                           "images/2018/03/23/nyregion/23STORM/23weather-smallSquare168.jpg" "images/2018/03/23/n
+                                                                 "images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1- "images/2018/03/23/nyregion/23STORM/merlin_135850302_42d5a8d1- "images/2018/03/23/n
+                                                                ad5f-4164-9ee4-226344d6d2d4-tmagArticle.jpg"                    ad5f-4164-9ee4-226344d6d2d4-tmagSF.jpg"                           verticalTwoByThree73
+images/2018/03/23/nyregion/23STORM/23weather-thumbLarge.jpg
+                                                                 "images/2018/03/23/nyregion/23STORM/23weather-                         "images/2018/03/23/nyregion/23STORM/23weather-                          "images/2018/03/23/n
+images/2018/03/23/nyregion/23STORM/23weather-videoLarge.jpg     videoSixteenByNine1050.jpg"                                            videoSixteenByNine150.jpg"                                              videoSixteenByNine22
+images/2018/03/23/nyregion/23STORM/23weather-                    "images/2018/03/23/nyregion/23STORM/23weather-                         "images/2018/03/23/nyregion/23STORM/23weather-                          "images/2018/03/23/n
+videoSixteenByNine480.jpg                                       videoSixteenByNine495.jpg"                                             videoSixteenByNine540.jpg"                                              videoSixteenByNine60
+
+images/2018/03/23/nyregion/23STORM/23weather-videoSmall.jpg         "images/2018/03/23/nyregion/23STORM/23weather-videoThumb.jpg"       "images/2018/03/23/nyregion/23STORM/23weather-watch268.jpg"                "images/2018/03/23/n
+                                                              471                                                                   168                                                                     252
+                                                              272                                                                   312 694)                                                                       subType = c("xlarge"
+mediumThreeByTwo252                                                 "miniMoth"                                                          "moth"                                                                     "popup"
+videoSixteenByNine600                                               "videoSixteenByNine768"                                             "videoSixteenByNine96"                                                     "videoSixteenByNineJ
+master180                                                           "master315"                                                         "master495"                                                                "master768"
+
+
+videoSixteenByNine150                                               "videoSixteenByNine225"                                               "videoSixteenByNine3000"                                                 "videoSixteenByNine3
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+)                                                                   legacy.wideheight = c(NA                                                                                                                126 NA
+
+NA                                                                  NA                                                                    NA                                                                       NA
+
+
+
+
+NA                                                                  NA                                                                    NA                                                                       NA
+glocations)                                                         value = c("Weather"                                                   "Snow and Snowstorms"                                                    "National Weather Se
+
+organizations                                                       "organizations"                                                       "organizations"                                                          "organizations"
+
+Long Island (NY)                                                    "New York City"                                                       "Northeastern States (US)"                                               "Philadelphia (Pa)"
+
+2018-03-23T12:23:27+0000                                            "2018-04-02T13:27:04+0000"                                            "2018-03-31T22:06:07+0000"                                               "2018-03-20T14:19:12
+News                                                                "News"                                                                "News"                                                                   "News"
+
+                                                     0.001318691                                                            0.001127873                                                              0.001048764
+
+nyt://article/7edc35ab-1bf3-50d0-aae3-511b3f4d4b37                  "nyt://article/b0fa05f6-abec-5cca-9c7e-e65b607638ce")                                                                                          "Sheriff's Officer Accu
+
+
+
+Snowstorm Pummels Eastern Seaboard                                  "Digging Out From a Snowy Spring Day"                                 "Late-Winter Storms Slow California's Dive Back Into Drought")           headline.kicker = c(N
+
+
+
+                                                                    "                                                                     "How Thundersnow Happens: With Considerable Difficulty"                  "
+By JONATHAN WOLFE                                                   "By KENDRA PIERRE-LOUIS"                                              NA                                                                       "By WINNIE HU and
+  rank = 1)                                                         list(firstname = "Jonathan"                                           middlename = NA                                                          lastname = "WOLFE"
+)                                                                   rank = 1:2)                                                           list())                                                                  byline.organization =
+

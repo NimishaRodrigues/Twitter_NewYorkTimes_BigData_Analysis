@@ -1,0 +1,10 @@
+images	230
+storm	100
+master	40
+album	32
+us	27
+climate	27
+weather	24
+ad	12
+square	10
+new	8

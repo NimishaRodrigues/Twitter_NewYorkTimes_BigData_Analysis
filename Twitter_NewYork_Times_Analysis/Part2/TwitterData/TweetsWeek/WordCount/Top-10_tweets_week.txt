@@ -1,0 +1,10 @@
+false	51266
+mother	13945
+twitter	13660
+nature	13583
+true	8765
+fools	3100
+snow	2511
+day	1953
+us	1859
+web	1818

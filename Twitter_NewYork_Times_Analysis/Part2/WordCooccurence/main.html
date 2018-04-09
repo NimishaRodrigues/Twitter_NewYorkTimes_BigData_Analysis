@@ -1,0 +1,206 @@
+﻿
+<!DOCTYPE html>
+<html>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="d3.layout.cloud.js"></script>
+<head>
+    <title>Word Cloud Example</title>
+</head>
+<style>
+    body {
+        font-family:"Lucida Grande","Droid Sans",Arial,Helvetica,sans-serif;
+    }
+    .legend {
+        border: 1px solid #555555;
+        border-radius: 5px 5px 5px 5px;
+        font-size: 0.8em;
+        margin: 10px;
+        padding: 8px;
+    }
+    .bld {
+        font-weight: bold;
+    }
+</style>
+<body>
+ <div>
+<button id = "tweets_cooccur" onclick="tweets_cooccur_func()">Tweets Word Cooccurrence</button>
+<button id = "news_cooccur" onclick="news_cooccur_func()">News Word Cooccurrence</button>
+</div>
+</body>
+<script>
+
+
+var tweets_day = [
+{"text":"crystal bed","size":1},
+{"text":"crystal day","size":1},
+{"text":"crystal false","size":4},
+{"text":"crystal mother","size":4},
+{"text":"crystal one","size":3},
+{"text":"crystal snow","size":2},
+{"text":"drop false","size":19},
+{"text":"drop kicking","size":13},
+{"text":"drop mother","size":15},
+{"text":"drop right","size":9},
+{"text":"drop snow","size":3},
+{"text":"drop true","size":4},
+{"text":"drop twitter","size":6},
+{"text":"humidity false","size":1},
+{"text":"humidity got","size":1},
+{"text":"humidity ready","size":1},
+{"text":"humidity sucks","size":1},
+{"text":"rain across","size":2},
+{"text":"rain afternoon","size":1},
+{"text":"rain allergies","size":2},
+{"text":"rain almost","size":1},
+{"text":"drop right","size":9},
+{"text":"drop snow","size":3},
+{"text":"drop twitter","size":6},
+{"text":"humidity sucks","size":1},
+{"text":"humidity throw","size":1},
+{"text":"rain across","size":2},
+{"text":"rain allergies","size":2},
+{"text":"rain back","size":4},
+{"text":"rain bring", "size":2},
+{"text":"rain false","size":128},
+{"text":"rain followed","size":3},
+{"text":"rain fools","size":4},
+{"text":"rain game","size":3},
+{"text":"rain get","size":2},
+{"text":"rain good","size":2},
+{"text":"rain hail","size":3},
+{"text":"rain ice","size":2},
+{"text":"rain keep","size":2},
+{"text":"rain may","size":2},
+{"text":"rain mother","size":36},
+{"text":"rain needs","size":2},
+{"text":"rain nights","size":2},
+{"text":"drop real","size":2},
+{"text":"rain season","size":3},
+{"text":"rain showers","size":8},
+{"text":"rain snow","size":16},
+{"text":"rain showers","size":8},
+{"text":"rain true","size":14},
+{"text":"rain twitter","size":41},
+{"text":"snow accumulations","size":44},
+{"text":"snow across","size":6},
+{"text":"snow already","size":36},
+{"text":"snow anticipating","size":18},
+{"text":"snow anymore","size":8},
+{"text":"snow area","size":6},
+{"text":"snow around","size":4},
+{"text":"snow away", "size":26},
+{"text":"snow back","size":30},
+{"text":"snow bitch","size":39},
+{"text":"snow day","size":124},
+];
+
+var news_day = [
+{"text":"arts images","size":29},
+{"text":"arts kids","size":76},
+{"text":"arts list","size":76},
+{"text":"arts master","size":3},
+{"text":"arts moth","size":2},
+{"text":"arts square","size":3},
+{"text":"images arts","size":61},
+{"text":"images kids","size":76},
+{"text":"images list","size":76},
+{"text":"images master","size":7},
+{"text":"images moth","size":3},
+{"text":"images science","size":85},
+{"text":"images take","size":6},
+{"text":"kids arts","size":58},
+{"text":"kids headline","size":1},
+{"text":"kids images","size":58},
+{"text":"kids kicker","size":1},
+{"text":"kids list","size":80},
+{"text":"kids master","size":6},
+{"text":"kids moth","size":4},
+{"text":"kids new","size":1},
+{"text":"kids square","size":6},
+{"text":"kids today","size":1},
+{"text":"kids weekend","size":1},
+{"text":"list arts","size":58},
+{"text":"list hit","size":1},
+{"text":"list images","size":58},
+{"text":"list kids","size":128},
+{"text":"list master","size":6},
+{"text":"list moth","size":4},
+{"text":"list offset","size":1},
+{"text":"list rank","size":1},
+{"text":"list square","size":6},
+{"text":"master arts","size":1},
+{"text":"master images","size":5},
+{"text":"master kids","size":2},
+{"text":"master list","size":2},
+{"text":"master science","size":4},
+{"text":"new children","size":1},
+{"text":"new city","size":2},
+{"text":"new company","size":1},
+{"text":"new hits","size":1},
+{"text":"new list","size":1},
+{"text":"new offset","size":1},
+{"text":"new rank","size":1},
+{"text":"new reserved","size":1},
+{"text":"new rights","size":1},
+{"text":"new times","size":1},
+{"text":"new today","size":1},
+{"text":"science images","size":48},
+{"text":"science master","size":4},
+{"text":"science square","size":3},
+{"text":"square arts","size":5},
+{"text":"square images","size":10},
+{"text":"square kids","size":6},
+{"text":"square list","size":6},
+{"text":"take images","size":96},
+{"text":"take master","size":8},
+{"text":"take moth","size":2},
+{"text":"take science","size":96},
+{"text":"take square","size":6},
+{"text":"watch height","size":2},
+
+];
+
+
+    var color = d3.scale.category20();
+
+function tweets_cooccur_func(){
+    d3.layout.cloud().size([1000, 600])
+            .words(tweets_day)
+            .rotate(0)
+            .fontSize(function(d) { return d.size; })
+            .on("end", draw)
+            .start();
+}
+
+function news_cooccur_func(){
+    d3.layout.cloud().size([1000, 600])
+            .words(news_day)
+            .rotate(0)
+            .fontSize(function(d) { return d.size; })
+            .on("end", draw)
+            .start();
+}
+
+    function draw(words) {
+        d3.select("body").append("svg")
+                .attr("width", 1050)
+                .attr("height", 650)
+                .attr("class", "wordcloud")
+                .append("g")
+                // without the transform, words words would get cutoff to the left and top, they would
+                // appear outside of the SVG area
+                .attr("transform", "translate(320,300)")
+                .selectAll("text")
+                .data(words)
+                .enter().append("text")
+                .style("font-size", function(d) { return d.size + "px"; })
+                .style("fill", function(d, i) { return color(i); })
+                .attr("transform", function(d) {
+                    return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+                })
+                .text(function(d) { return d.text; });
+    }
+</script>
+
+
+</html>

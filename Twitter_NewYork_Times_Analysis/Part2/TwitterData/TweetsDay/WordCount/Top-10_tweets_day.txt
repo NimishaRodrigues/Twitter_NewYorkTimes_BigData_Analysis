@@ -1,0 +1,10 @@
+rain	7143
+snow	5276
+today	1917
+wind	1679
+spring	1391
+humidity	972
+trainer	882
+weather	835
+crystal	813
+drop	754

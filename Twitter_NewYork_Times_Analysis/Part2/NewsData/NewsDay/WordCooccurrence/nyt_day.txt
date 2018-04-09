@@ -1,0 +1,175 @@
+                                                                copyright                                                               meta                                                           data
+
+
+
+res                                                             Copyright (c) 2015 The New York Times Company. All Rights Reserved. list(hits = 4                                                      offset = 0
+                                                                Sometimes it seems as if we<U+2019>re living under a constant barrage Our guide to cultural events in New York City for children and
+The Minnesota Twins had to bundle up for their home opener.     of heavy news. But it isn<U+2019>t all bad out there.                 teenagers happening this weekend and in the week ahead.)         source = c("The New York
+
+                                                               00                                                                        0                                                              0
+mediumFlexible177                                               mediumSquare149                                                         mediumThreeByTwo210                                            mediumThreeByTwo225
+videoSixteenByNine3000                                          videoSixteenByNine310                                                   videoSixteenByNine390                                          videoSixteenByNine480
+
+NA                                                               NA                                                                 NA                                                              NA
+image                                                           image                                                              image                                                           image
+                                                                 url =
+                                                                c("images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+image)                                                          863c-4fff-9518-d1076f2c5a2d-articleLarge.jpg"                      863c-4fff-9518-d1076f2c5a2d-thumbWide.jpg                       863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-blog427.jpg                         863c-4fff-9518-d1076f2c5a2d-blog480.jpg                            863c-4fff-9518-d1076f2c5a2d-blog533.jpg                         863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-facebookJumbo.jpg                   863c-4fff-9518-d1076f2c5a2d-filmstrip.jpg                          863c-4fff-9518-d1076f2c5a2d-hpLarge.jpg                         863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-largeHorizontal375.jpg              863c-4fff-9518-d1076f2c5a2d-largeHorizontalJumbo.jpg               863c-4fff-9518-d1076f2c5a2d-largeWidescreen573.jpg              863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-master180.jpg                       863c-4fff-9518-d1076f2c5a2d-master315.jpg                          863c-4fff-9518-d1076f2c5a2d-master495.jpg                       863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-mediumFlexible177.jpg               863c-4fff-9518-d1076f2c5a2d-mediumSquare149.jpg                    863c-4fff-9518-d1076f2c5a2d-mediumThreeByTwo210.jpg             863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-mediumThreeByTwo378.jpg             863c-4fff-9518-d1076f2c5a2d-mediumThreeByTwo252.jpg                863c-4fff-9518-d1076f2c5a2d-miniMoth.jpg                        863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-sfSpan.jpg                          863c-4fff-9518-d1076f2c5a2d-slide.jpg                              863c-4fff-9518-d1076f2c5a2d-smallSquare168.jpg                  863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-square640.jpg                       863c-4fff-9518-d1076f2c5a2d-superJumbo.jpg                         863c-4fff-9518-d1076f2c5a2d-thumbLarge.jpg                      863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-verticalTwoByThree735.jpg           863c-4fff-9518-d1076f2c5a2d-videoFifteenBySeven1305.jpg            863c-4fff-9518-d1076f2c5a2d-videoFifteenBySeven2610.jpg         863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-videoSixteenByNine1050.jpg          863c-4fff-9518-d1076f2c5a2d-videoSixteenByNine150.jpg              863c-4fff-9518-d1076f2c5a2d-videoSixteenByNine225.jpg           863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-videoSixteenByNine390.jpg           863c-4fff-9518-d1076f2c5a2d-videoSixteenByNine480.jpg              863c-4fff-9518-d1076f2c5a2d-videoSixteenByNine495.jpg           863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion
+863c-4fff-9518-d1076f2c5a2d-videoSixteenByNine768.jpg           863c-4fff-9518-d1076f2c5a2d-videoSixteenByNine96.jpg               863c-4fff-9518-d1076f2c5a2d-videoSixteenByNineJumbo1600.jpg     863c-4fff-9518-d1076f2c5a2
+images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076- images/2018/04/05/nyregion/05nytoday1/merlin_136302099_1f6c3076-
+863c-4fff-9518-d1076f2c5a2d-watch268.jpg                        863c-4fff-9518-d1076f2c5a2d-watch308.jpg                           863c-4fff-9518-d1076f2c5a2d-windowsTile336H.jpg)                 height = c(400
+                                                              70 151                                                                433                                                             263
+                                                              96 1600                                                               500                                                             75
+mediumThreeByTwo378                                             mediumThreeByTwo252                                                miniMoth                                                        moth
+videoSixteenByNine540                                           videoSixteenByNine600                                              videoSixteenByNine768                                           videoSixteenByNine96
+master1050                                                      master180                                                          master315                                                       master495
+
+
+videoSixteenByNine1050                                          videoSixteenByNine150                                                   videoSixteenByNine225                                          videoSixteenByNine3000
+
+NA                                                              NA                                                                      NA                                                             NA
+
+NA                                                              NA                                                                      NA                                                             NA
+
+NA                                                              NA                                                                      NA                                                             NA
+
+NA                                                              NA                                                                      NA                                                             NA
+
+NA                                                               NA                                                                      NA                                                             NA
+NA                                                               NA                                                                      NA                                                             NA
+                                                               00                                                                        0                                                              0
+mediumThreeByTwo440                                             mediumThreeByTwo378                                                     mediumThreeByTwo252                                            miniMoth
+videoSixteenByNine495                                           videoSixteenByNine540                                                   videoSixteenByNine600                                          videoSixteenByNine768
+NA                                                               NA)                                                                     credit = c(NA                                                  NA
+
+
+
+
+image                                                           image                                                                   image                                                          image
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-           images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-articleInline-           images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-blog225-    images/2018/04/10/science
+thumbStandard-v3.jpg                                         v2.jpg                                                                     v2.jpg                                                        v2.jpg
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-                                                                                      images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-hpLarge-    images/2018/04/10/science
+facebookJumbo-v2.jpg                                         images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-filmstrip-v2.jpg         v2.jpg                                                        v2.jpg
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-           images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-                         images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-master1050-images/2018/04/10/science
+largeWidescreen573-v2.jpg                                    largeWidescreen1050-v2.jpg                                                 v2.jpg                                                        v2.jpg
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-master675- images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-                         images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-            images/2018/04/10/science
+v2.jpg                                                       mediumFlexible177-v2.jpg                                                   mediumSquare149-v2.jpg                                        mediumThreeByTwo210-v2
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-           images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-miniMoth-                                                                              images/2018/04/10/science
+mediumThreeByTwo252-v2.jpg                                   v2.jpg                                                                     images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-moth-v2.jpg v2.jpg
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-square320- images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-square640-               images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-            images/2018/04/10/science
+v2.jpg                                                       v2.jpg                                                                     superJumbo-v2.jpg                                             v3.jpg
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-           images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-                         images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-            images/2018/04/10/science
+videoFifteenBySeven1305-v2.jpg                               videoFifteenBySeven2610-v2.jpg                                             videoHpMedium-v2.jpg                                          v2.jpg
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-           images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-                         images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-            images/2018/04/10/science
+videoSixteenByNine3000-v2.jpg                                videoSixteenByNine310-v2.jpg                                               videoSixteenByNine390-v2.jpg                                  videoSixteenByNine480-v2.
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-           images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-                         images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-            images/2018/04/10/science
+videoSixteenByNine768-v2.jpg                                 videoSixteenByNine96-v2.jpg                                                videoSixteenByNineJumbo1600-v2.jpg                            v2.jpg
+images/2018/04/10/science/10SCI-TAKE1/10SCI-TAKE1-
+windowsTile336H-v2.jpg)                                       height = c(400                                                             126                                                           75
+                                                         1024 375                                                                        1024                                                          573
+largeHorizontalJumbo                                         largeWidescreen573                                                         largeWidescreen1050                                            master1050
+
+videoFifteenBySeven2610                                         videoHpMedium                                                           videoLarge                                                     videoSixteenByNine1050
+thumbStandard                                                   articleInline                                                           blog225                                                        blog427
+miniMoth                                                        moth                                                                    popup                                                          sfSpan
+
+
+videoSixteenByNine768                                           videoSixteenByNine96                                                    videoSixteenByNineJumbo1600                                    videoSmall
+
+NA                                                              NA)                                                                     legacy.xlargewidth = c(600                                     NA
+
+
+NA                                                              NA                                                                      NA                                                             NA
+
+NA                                                              NA                                                                      NA                                                             NA
+
+
+NA                                                              NA                                                                      NA                                                             NA
+
+NA                                                              NA                                                                      NA                                                             NA
+   list(rank = c(0                                              0                                                                    0                                                               0
+master1050                                                     master180                                                            master315                                                       master495
+videoSixteenByNine1050                                         videoSixteenByNine150                                                videoSixteenByNine225                                           videoSixteenByNine3000
+
+  NA                                                            NA                                                                   NA                                                              NA
+image                                                          image                                                                image                                                           image
+
+
+
+
+image                                                          image                                                                image                                                           image
+                                                                                                                                    images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                 images/2018/04/06/arts/06L
+images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-blog533.jpg     images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-blogSmallInline.jpg   blogSmallThumb.jpg                                              facebookJumbo.jpg
+images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                      images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                 images/2018/04/06/arts/06L
+largeHorizontal375.jpg                                         largeHorizontalJumbo.jpg                                             largeWidescreen573.jpg                                          largeWidescreen1050.jpg
+                                                                                                                                    images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                 images/2018/04/06/arts/06L
+images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-master768.jpg   images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-master675.jpg         mediumFlexible177.jpg                                           mediumSquare149.jpg
+images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-
+mediumThreeByTwo252.jpg                                        images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-miniMoth.jpg          images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-moth.jpg         images/2018/04/06/arts/06L
+
+images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-square320.jpg   images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-square640.jpg         images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-superJumbo.jpg   images/2018/04/06/arts/06L
+images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                                                                                                                                                     images/2018/04/06/arts/06L
+videoFifteenBySeven2610.jpg                                    images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-videoHpMedium.jpg     images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-videoLarge.jpg   videoSixteenByNine1050.jp
+images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                      images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                 images/2018/04/06/arts/06L
+videoSixteenByNine310.jpg                                      videoSixteenByNine390.jpg                                            videoSixteenByNine480.jpg                                       videoSixteenByNine495.jpg
+images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-                images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-
+videoSixteenByNine96.jpg                                       videoSixteenByNineJumbo1600.jpg                                      images/2018/04/06/arts/06LIST-KIDS/06LIST-KIDS-videoSmall.jpg   images/2018/04/06/arts/06L
+   126                                                          75                                                                   125                                                             149
+
+
+ 378                                                           252                                                                  151                                                             151
+master180                                                      master315                                                            master495                                                       master768
+
+videoSixteenByNine150                                          videoSixteenByNine225                                                videoSixteenByNine3000                                          videoSixteenByNine310
+blogSmallInline                                                blogSmallThumb                                                       facebookJumbo                                                   filmstrip
+square320                                                      square640                                                            superJumbo                                                      thumbLarge
+
+videoSmall                                                     videoThumb                                                           watch268                                                        watch308
+
+    NA                                                         NA                                                                   NA                                                              NA
+
+    NA                                                         NA                                                                   NA                                                              NA
+
+
+
+    NA                                                         NA                                                                   NA                                                              NA
+
+    NA                                                         NA                                                                   NA                                                              NA
+
+
+    NA                                                         NA                                                                   NA                                                              NA
+
+)                                                              value = c("Children and Childhood"                                   New York City)                                                  rank = 1:2
+
+
+)                                                              word_count = c(1118                                                  795                                                             931
+
+The Week in Good News: Sweater Man, Matt Parziale and Snow
+Monkeys                                                        7 Things to Do With Your Kids in NYC This Weekend)                   headline.kicker = c("New York Today"                            NA
+
+By DES SHOE                                                    By LAUREL GRAEBER)                                                   byline.person = list(list(firstname = "Jonathan"                middlename = NA
+THE ASSOCIATED PRESS                                           NA                                                                   NA))                                                            NULL
+
